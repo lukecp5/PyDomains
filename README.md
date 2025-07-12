@@ -98,16 +98,14 @@ df.to_csv("domains_with_labels.csv", index=False)
 
 Pull requests, issues, and suggestions are welcome!
 
-- See `docs/` for more details and model explanations.
 - License: MIT
 
 ---
 
 ## 🔹 Credits
 
-Originally created by Suriyan Laohaprapanon and Gaurav Sood.  
-Updated and republished by [Luke Poirrier](https://github.com/lukecp5)
+Originally created by [Luke Poirrier](https://github.com/lukecp5)
 
-GitHub: [github.com/lukecp5/PyDomains](https://github.com/lukecp5/PyDomains)
+GitHub: [github.com/lukecp5](https://github.com/lukecp5)
 
 ---
